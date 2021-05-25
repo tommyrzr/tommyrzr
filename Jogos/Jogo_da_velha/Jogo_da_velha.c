@@ -1,3 +1,5 @@
+
+//Feito por tommyrzr. Por favor se copiar, deixe os creditos :)
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
@@ -49,12 +51,12 @@ int main() {
 					vez=0;}
 				if(vitoria1==2){
 					system("cls");
-					printf("                 Parabéns jogador 1!!!                     \n");
+					printf("                 ParabÃ©ns jogador 1!!!                     \n");
 					trofeu();
-					printf("Deseja jogar novamente? Qualquer outra tecla - Não e 1 - Para Sim: ");
+					printf("Deseja jogar novamente? Qualquer outra tecla - NÃ£o e 1 - Para Sim: ");
 					scanf("%d", &seguir);
 					if(seguir!=1){
-						printf("Você escolheu sair! \n");
+						printf("VocÃª escolheu sair! \n");
 						break;
 					}
 					else{
@@ -86,10 +88,10 @@ int main() {
 				}
 				if(vitoria2==2){
 					system("cls");
-					printf("                 Parabéns jogador 2!!!                     \n");
+					printf("                 ParabÃ©ns jogador 2!!!                     \n");
 					trofeu();
 					if(seguir!=1){
-						printf("Você escolheu sair! \n");
+						printf("VocÃª escolheu sair! \n");
 						break;
 					}
 					else{
@@ -132,7 +134,7 @@ int jogador1(){
 			vez=vez+1;
 		}
 		else{
-			printf("A posição já foi jogada! \n");
+			printf("A posiÃ§Ã£o jÃ¡ foi jogada! \n");
 		}
 
 	}
@@ -154,7 +156,7 @@ int jogador2(){
 			vez=vez+1;
 		}
 		else{
-			printf("A posição já foi jogada! \n");
+			printf("A posiÃ§Ã£o jÃ¡ foi jogada! \n");
 		}
 
 	}

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommyrzr;
 - 👀 I’m interested in computer network;
-- 🌱 I’m currently learning Java, CSS, R and Network encryption;
+- 🌱 I’m currently learning C, Gaming Scripts and cryptography;
 - 📫 How to reach me tommyrzr@outlook.com.br
 
 <!---
